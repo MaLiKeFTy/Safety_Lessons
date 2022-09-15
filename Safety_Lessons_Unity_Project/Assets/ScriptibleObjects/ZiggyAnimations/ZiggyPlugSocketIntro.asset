@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ab41556cd6c994cacd1a16b9c04a28, type: 3}
+  m_Name: ZiggyPlugSocketIntro
+  m_EditorClassIdentifier: 
+  _objs:
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 1763888493755845124, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 4828835213844344559, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: bcdbda98c29a4d64b83cd07ef3089f6e, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+    - _animClip: {fileID: 4524484070855802863, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 985916892069693328, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: 06d2407bc88a0e34ca9dace8d08e75b8, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1

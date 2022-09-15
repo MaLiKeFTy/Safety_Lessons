@@ -1,0 +1,17 @@
+{
+    "name": "MonoServices.Animations",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c711dea96ce04f34d9747275dab6c163",
+        "GUID:d15bfdbbdadc68243b9dc5edece93893"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

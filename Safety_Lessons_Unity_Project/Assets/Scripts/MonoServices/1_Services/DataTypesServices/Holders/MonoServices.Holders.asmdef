@@ -1,0 +1,18 @@
+{
+    "name": "MonoServices.Holders",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c711dea96ce04f34d9747275dab6c163",
+        "GUID:a1be27ecea9d8fb46a18ee76c1603776",
+        "GUID:7a70c2fa1e786d34a96d63f7ea07d1bd"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

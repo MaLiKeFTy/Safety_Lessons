@@ -1,0 +1,355 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2566727040750402945
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 816852783255391924, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9a236466752352f4a8f7399481ca1e25,
+        type: 3}
+      propertyPath: m_Name
+      value: plugSocket_GOOD
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9a236466752352f4a8f7399481ca1e25, type: 3}
+--- !u!1 &3413642159165538512 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9a236466752352f4a8f7399481ca1e25,
+    type: 3}
+  m_PrefabInstance: {fileID: 2566727040750402945}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1005901655
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413642159165538512}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3f6d95efa067fa84f9570553b9e811d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1005901651
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413642159165538512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868e3756a7070be4aa2652a730306895, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 3
+          _monoSerciveTagNames:
+          - ZiggyInlineAnimationPlayer
+          - ZiggyAnimClipComparer
+          - AnimSequenceHolder
+          - ZiggyStopSignClicker
+          _previousMonoSeriveTagsLength: 4
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - OnMouseDown
+          - OnMouseUp
+          - ChangeCanCall
+          - OnMouseHold
+          _currInvokerCommandName: OnMouseUp
+          _currSelectedMonoServiceTag: ZiggyStopSignClicker
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - UseHolder
+    _monoServiceTag: AnimSequenceHolder
+    refrencedMonoServices:
+      _refrencedList: []
+  _heldObject: {fileID: 11400000, guid: 6af184ab8ac6a0640b181d981adff968, type: 2}
+--- !u!114 &1005901652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413642159165538512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5368fb848eaef61489dded09813372b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 4
+          _monoSerciveTagNames:
+          - AnimSequenceHolder
+          - Raycaster
+          - UiClicker
+          - ZiggyAnimClipComparer
+          - ZiggyInlineAnimationPlayer
+          _previousMonoSeriveTagsLength: 5
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 4
+          _invokerCommandNames:
+          - ChangeAnimationState
+          - ChangeAnimationSequence
+          - ChangeAnimationSequenceAndState
+          - ChangeAndOverideAnimationSequence
+          - OnChangedAnimClip
+          - TurnOffSequenceLoop
+          _currInvokerCommandName: OnChangedAnimClip
+          _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - On ZiggyRotating
+        - CompareAnim
+        - OnSameAnimClip
+        - OnDiffAnimClip
+    _monoServiceTag: ZiggyAnimClipComparer
+    refrencedMonoServices:
+      _refrencedList: []
+  _animClips:
+  - {fileID: 7400000, guid: fc032b9f2e8bc9649ad7a1dfa6a04532, type: 2}
+  - {fileID: 7400000, guid: 1944d70d461f43845b1b32bef3a1be3e, type: 2}
+  - {fileID: 7400000, guid: d338f973bb855204591a77a98a7636b6, type: 2}
+--- !u!114 &1005901653
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413642159165538512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec97aab3bac4a4b42b5fc8a44e278131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ZiggyInlineAnimationPlayer
+          - ZiggyAnimClipComparer
+          _previousMonoSeriveTagsLength: 2
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames:
+          - On ZiggyRotating
+          - CompareAnim
+          _currInvokerCommandName: On ZiggyRotating
+          _currSelectedMonoServiceTag: ZiggyAnimClipComparer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - ToggleLooking
+        - FinishedRotating
+    _monoServiceTag: 
+    refrencedMonoServices:
+      _refrencedList: []
+  _moveSpeed: 0.15
+  _lookAtX: 0
+  _lookAtY: 1
+  _lookAtZ: 0
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _lookAtMainCam: 1
+  _constantLooking: 0
+  target: {fileID: 0}
+--- !u!114 &1005901654
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3413642159165538512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767329f504b42444c83862bc1577d3e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - AnimSequenceHolder
+          - Raycaster
+          - UiClicker
+          - ZiggyAnimClipComparer
+          - ZiggyInlineAnimationPlayer
+          _previousMonoSeriveTagsLength: 5
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames:
+          - UseHolder
+          _currInvokerCommandName: UseHolder
+          _currSelectedMonoServiceTag: AnimSequenceHolder
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - ChangeAnimationState
+        - ChangeAnimationSequence
+        - ChangeAnimationSequenceAndState
+        - ChangeAndOverideAnimationSequence
+        - OnChangedAnimClip
+        - TurnOffSequenceLoop
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - ZiggyInlineAnimationPlayer
+          - ZiggyAnimClipComparer
+          _previousMonoSeriveTagsLength: 2
+          _currSelectedMonoServices:
+          - {fileID: 1005901654}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - ChangeAnimationState
+          - ChangeAnimationSequence
+          - ChangeAnimationSequenceAndState
+          - ChangeAndOverideAnimationSequence
+          - OnChangedAnimClip
+          - TurnOffSequenceLoop
+          _currInvokerCommandName: ChangeAnimationSequence
+          _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 5
+        _recieverCommandsNames:
+        - ChangeAnimationState
+        - ChangeAnimationSequence
+        - ChangeAnimationSequenceAndState
+        - ChangeAndOverideAnimationSequence
+        - OnChangedAnimClip
+        - TurnOffSequenceLoop
+    _monoServiceTag: ZiggyInlineAnimationPlayer
+    refrencedMonoServices:
+      _refrencedList: []
+  _animationSequence: {fileID: 11400000, guid: 0f8ff4a0a97810c49834ae735bd81bfc, type: 2}
+  _animatorController: {fileID: 9100000, guid: 3f6d95efa067fa84f9570553b9e811d6, type: 2}
+  _loopSequence: 0

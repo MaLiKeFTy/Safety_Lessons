@@ -1,0 +1,17 @@
+{
+    "name": "MonoServices.Transforms",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c711dea96ce04f34d9747275dab6c163",
+        "GUID:db0febedf9fa65b43adf422de754aed7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

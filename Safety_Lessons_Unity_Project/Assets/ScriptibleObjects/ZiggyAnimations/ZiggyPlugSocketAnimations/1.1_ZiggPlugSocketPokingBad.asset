@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ab41556cd6c994cacd1a16b9c04a28, type: 3}
+  m_Name: 1.1_ZiggPlugSocketPokingBad
+  m_EditorClassIdentifier: 
+  _objs:
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 8c67b5b8fcb9b03409f8e239b828b97e, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: 02df6129684a2be4a8c62dceb6dc35aa, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 62f9c1239db9c3c4a8feb319579eaf50, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: a6a790190179cc94b8b9ede980640ee0, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 1e56812494f8afd41acb663f8893f12c, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: e89fee9e6949e984aa893e542a32a210, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: e1fb848ea62d0a84497f9bb3bc59f493, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: 23c0aea3fd1096e408d0c0f5d7704da7, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+  - _name: ZiggyWaitingForInstructions
+    _loopThisSequence: 1
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: bb3d6653ffb6ea84cb7a42be25d619d0, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+    - _animClip: {fileID: 7400000, guid: b0e4cf8becce3394b8a7f99a215e1588, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+    - _animClip: {fileID: 7400000, guid: 26d6312af547b4d44be28be39c59e0ce, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+    - _animClip: {fileID: 7400000, guid: 129cae30cd046944ba2f88d1d6c74b7f, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+    - _animClip: {fileID: 7400000, guid: e87115e4925e5f54ea16e6fcb614daaa, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+    - _animClip: {fileID: 7400000, guid: c3119df00a86b4a4889a2888488f810f, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []

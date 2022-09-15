@@ -1,0 +1,706 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5468874050880399790
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1349945205987518633}
+  - component: {fileID: 5722199990494211042}
+  - component: {fileID: 1969496763}
+  - component: {fileID: 975749246}
+  m_Layer: 0
+  m_Name: ArModelEditor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1349945205987518633
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5468874050880399790}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 5893639380978913373}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5722199990494211042
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5468874050880399790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da804c8f4a720774599bad64dea236e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 3
+          _monoSerciveTagNames:
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          - ArModelEditorCurrSelector
+          - ArModelEditorGameObjComaparer
+          - ArModelEditorSpawner
+          - ArModelEditorStateHandler
+          - ArModelSpawnerObjHolder
+          - ArModelSpawnerStateHandler
+          - UiNormalClicker
+          - UiSpawnerObjHolder
+          - UiWithPlaneClicker
+          _previousMonoSeriveTagsLength: 11
+          _currSelectedMonoServices:
+          - {fileID: 1969496763}
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - CompareGameobject
+          - OnSameObject
+          - OnDifferentObject
+          _currInvokerCommandName: OnSameObject
+          _currSelectedMonoServiceTag: ArModelEditorGameObjComaparer
+          _alreadyCalled: 0
+        _invokerResetter:
+        - _invokerCommand:
+            _selectedMonoServiceTag: 0
+            _monoSerciveTagNames:
+            - ArModelEditorStateHandler
+            - ArModelEditorGameObjComaparer
+            - ArEditorModelGameObjPasser
+            - ArModelEditorClicker
+            _previousMonoSeriveTagsLength: 4
+            _currSelectedMonoServices:
+            - {fileID: 5722199990494211042}
+            _monoServiceIsAFamRelative: 1
+            _parentNumber: 0
+            _selectedInvokerCommandIndex: 2
+            _invokerCommandNames:
+            - 'On State: ArPlanePlacingModel'
+            - 'On State: Ar3dPlacingModel'
+            - 'On State: ArPlacedModel'
+            - MoveToNextState
+            - ChangeSequenceStartingPoint
+            _currInvokerCommandName: 'On State: ArPlacedModel'
+            _currSelectedMonoServiceTag: ArModelEditorStateHandler
+            _alreadyCalled: 0
+      _recieverCommand:
+        _selectedReciverCommandIndex: 3
+        _recieverCommandsNames:
+        - 'On State: ArPlanePlacingModel'
+        - 'On State: Ar3dPlacingModel'
+        - 'On State: ArPlacedModel'
+        - MoveToNextState
+        - ChangeSequenceStartingPoint
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 5
+          _monoSerciveTagNames:
+          - ArModelEditorClicker
+          - ArModelEditorCurrSelector
+          - ArModelEditorGameObjComaparer
+          - ArModelEditorStateHandler
+          - ArModelSpawner
+          - ArModelSpawnerStateHandler
+          - UiNormalClicker
+          - UiSpawnerObjHolder
+          - UiWithPlaneClicker
+          _previousMonoSeriveTagsLength: 9
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - 'Select State: ArRacasterPlacing'
+          - 'Select State: TransformPlacing'
+          - GetCurrentState
+          _currInvokerCommandName: 'Select State: TransformPlacing'
+          _currSelectedMonoServiceTag: ArModelSpawnerStateHandler
+          _alreadyCalled: 0
+        _invokerResetter: []
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 3
+          _currSelectedMonoServices:
+          - {fileID: 1969496763}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - CompareGameobject
+          - OnSameObject
+          - OnDifferentObject
+          _currInvokerCommandName: OnSameObject
+          _currSelectedMonoServiceTag: ArModelEditorGameObjComaparer
+          _alreadyCalled: 0
+        _invokerResetter:
+        - _invokerCommand:
+            _selectedMonoServiceTag: 0
+            _monoSerciveTagNames:
+            - ArModelEditorStateHandler
+            - ArModelEditorGameObjComaparer
+            - ArModelEditorClicker
+            _previousMonoSeriveTagsLength: 3
+            _currSelectedMonoServices:
+            - {fileID: 5722199990494211042}
+            _monoServiceIsAFamRelative: 1
+            _parentNumber: 0
+            _selectedInvokerCommandIndex: 2
+            _invokerCommandNames:
+            - 'On State: ArPlanePlacingModel'
+            - 'On State: Ar3dPlacingModel'
+            - 'On State: ArPlacedModel'
+            - MoveToNextState
+            - ChangeSequenceStartingPoint
+            _currInvokerCommandName: 'On State: ArPlacedModel'
+            _currSelectedMonoServiceTag: ArModelEditorStateHandler
+            _alreadyCalled: 0
+      _recieverCommand:
+        _selectedReciverCommandIndex: 4
+        _recieverCommandsNames:
+        - 'On State: ArPlanePlacingModel'
+        - 'On State: Ar3dPlacingModel'
+        - 'On State: ArPlacedModel'
+        - MoveToNextState
+        - ChangeSequenceStartingPoint
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 2
+          _currSelectedMonoServices:
+          - {fileID: 4542856467364473102}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - OnMouseDown
+          - OnMouseUp
+          _currInvokerCommandName: OnMouseUp
+          _currSelectedMonoServiceTag: ArModelEditorClicker
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 3
+        _recieverCommandsNames:
+        - 'On State: ArPlanePlacingModel'
+        - 'On State: Ar3dPlacingModel'
+        - 'On State: ArPlacedModel'
+        - MoveToNextState
+        - ChangeSequenceStartingPoint
+    _monoServiceTag: ArModelEditorStateHandler
+    refrencedMonoServices:
+      _refrencedList: []
+  _stateSequence: {fileID: 11400000, guid: 252c10bedaf4d6a4eb171d937f41f342, type: 2}
+  changeStateOnStart: 0
+  _currentStateIndex: 0
+--- !u!114 &1969496763
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5468874050880399790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c69e2faba261c4c8675729e32ce83a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ArModelEditorClicker
+          - ArModelEditorCurrSelector
+          - ArModelEditorStateHandler
+          - ArModelSpawner
+          - ArModelSpawnerStateHandler
+          - UiNormalClicker
+          - UiSpawnerObjHolder
+          - UiWithPlaneClicker
+          _previousMonoSeriveTagsLength: 8
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 2
+          _invokerCommandNames:
+          - GetGameObjToHold
+          - SendGameObj
+          - GetAndSendObj
+          _currInvokerCommandName: GetAndSendObj
+          _currSelectedMonoServiceTag: ArModelEditorCurrSelector
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - CompareGameobject
+        - OnSameObject
+        - OnDifferentObject
+    _monoServiceTag: ArModelEditorGameObjComaparer
+    refrencedMonoServices:
+      _refrencedList: []
+--- !u!114 &975749246
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5468874050880399790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f94296aa48a58742925778c6621199e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 4
+          _currSelectedMonoServices:
+          - {fileID: 5722199990494211042}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - 'On State: ArPlanePlacingModel'
+          - 'On State: Ar3dPlacingModel'
+          - 'On State: ArPlacedModel'
+          - MoveToNextState
+          - ChangeSequenceStartingPoint
+          _currInvokerCommandName: 'On State: Ar3dPlacingModel'
+          _currSelectedMonoServiceTag: ArModelEditorStateHandler
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - PassGameobject
+    _monoServiceTag: ArEditorModelGameObjPasser
+    refrencedMonoServices:
+      _refrencedList: []
+  _selfGameobject: 1
+--- !u!1 &6521697583468907239
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5893639380978913373}
+  - component: {fileID: 7378499689090342904}
+  - component: {fileID: 4720129845883808562}
+  - component: {fileID: 5911243904665979209}
+  - component: {fileID: 7663019978776766613}
+  - component: {fileID: 2170568264017841194}
+  - component: {fileID: 4542856467364473102}
+  - component: {fileID: 1859856908}
+  m_Layer: 0
+  m_Name: Mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5893639380978913373
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.2, z: 0}
+  m_LocalScale: {x: 10, y: 10, z: 10}
+  m_Children: []
+  m_Father: {fileID: 1349945205987518633}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &7378499689090342904
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Mesh: {fileID: -3758573805739257388, guid: 860c6e1267c8f5241b43adde26b1bea5, type: 3}
+--- !u!23 &4720129845883808562
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 5561349426305759274, guid: 860c6e1267c8f5241b43adde26b1bea5, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &5911243904665979209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3aeca535fb2e3b41bbc8ddc945fa357, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    refrencedMonoServices:
+      _refrencedList: []
+  rotateOnStart: 1
+  _rotateSpeed: 50
+  _space: 1
+  _vector3Axis: 2
+  _randomAxis: 0
+  _randomSpeed: 0
+--- !u!114 &7663019978776766613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29a52dba910fd54dab0d0e391b9fe9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 7
+          _currSelectedMonoServices:
+          - {fileID: 5722199990494211042}
+          - {fileID: 5722199990494211042}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 1
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames:
+          - 'On State: ArPlanePlacingModel'
+          - 'On State: Ar3dPlacingModel'
+          - 'On State: ArPlacedModel'
+          - MoveToNextState
+          - ChangeSequenceStartingPoint
+          _currInvokerCommandName: 'On State: ArPlanePlacingModel'
+          _currSelectedMonoServiceTag: ArModelEditorStateHandler
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - 'Change mat color to: Green'
+        - 'Change mat color to: Yellow'
+        - 'Change mat color to: Blue'
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 7
+          _currSelectedMonoServices:
+          - {fileID: 5722199990494211042}
+          - {fileID: 5722199990494211042}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 1
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - 'On State: ArPlanePlacingModel'
+          - 'On State: Ar3dPlacingModel'
+          - 'On State: ArPlacedModel'
+          - MoveToNextState
+          - ChangeSequenceStartingPoint
+          _currInvokerCommandName: 'On State: Ar3dPlacingModel'
+          _currSelectedMonoServiceTag: ArModelEditorStateHandler
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - 'Change mat color to: Green'
+        - 'Change mat color to: Yellow'
+        - 'Change mat color to: Blue'
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 7
+          _currSelectedMonoServices:
+          - {fileID: 5722199990494211042}
+          - {fileID: 5722199990494211042}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 1
+          _selectedInvokerCommandIndex: 2
+          _invokerCommandNames:
+          - 'On State: ArPlanePlacingModel'
+          - 'On State: Ar3dPlacingModel'
+          - 'On State: ArPlacedModel'
+          - MoveToNextState
+          - ChangeSequenceStartingPoint
+          _currInvokerCommandName: 'On State: ArPlacedModel'
+          _currSelectedMonoServiceTag: ArModelEditorStateHandler
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 2
+        _recieverCommandsNames:
+        - 'Change mat color to: Green'
+        - 'Change mat color to: Yellow'
+        - 'Change mat color to: Blue'
+    _monoServiceTag: 
+    refrencedMonoServices:
+      _refrencedList: []
+  _matColorParams:
+  - _name: Green
+    _color: {r: 0.1656568, g: 1, b: 0, a: 1}
+    _shaderParams:
+    - _BaseColor
+  - _name: Yellow
+    _color: {r: 0.97802067, g: 1, b: 0, a: 1}
+    _shaderParams:
+    - _BaseColor
+  - _name: Blue
+    _color: {r: 0, g: 1, b: 0.89932394, a: 1}
+    _shaderParams:
+    - _BaseColor
+  _moveSpeed: 8
+--- !u!65 &2170568264017841194
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.005698065, y: 0.033702526, z: 0.0309175}
+  m_Center: {x: 0, y: 0, z: 0.00021685287}
+--- !u!114 &4542856467364473102
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c679a26d90f30944c8ff7e8333e09351, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: ArModelEditorClicker
+    refrencedMonoServices:
+      _refrencedList:
+      - {fileID: 975749246}
+      - {fileID: 5722199990494211042}
+--- !u!114 &1859856908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6521697583468907239}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb0aa31ebf0a9bf438912d628dc35d7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorStateHandler
+          - ArModelEditorGameObjComaparer
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          _previousMonoSeriveTagsLength: 7
+          _currSelectedMonoServices:
+          - {fileID: 1969496763}
+          - {fileID: 1969496763}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 1
+          _selectedInvokerCommandIndex: 2
+          _invokerCommandNames:
+          - CompareGameobject
+          - OnSameObject
+          - OnDifferentObject
+          _currInvokerCommandName: OnDifferentObject
+          _currSelectedMonoServiceTag: ArModelEditorGameObjComaparer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - 'Change scale to: vector.zero'
+        - 'Change scale to: vector.one'
+        - FinishedScaleChanging
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 4
+          _monoSerciveTagNames:
+          - ArEditorModelGameObjPasser
+          - ArModelEditorClicker
+          - ArModelEditorCurrSelector
+          - ArModelEditorGameObjComaparer
+          - ArModelEditorStateHandler
+          - ArModelSpawner
+          - ArModelSpawnerStateHandler
+          - UiNormalClicker
+          - UiSpawnerObjHolder
+          - UiWithPlaneClicker
+          _previousMonoSeriveTagsLength: 10
+          _currSelectedMonoServices:
+          - {fileID: 5722199990494211042}
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 1
+          _selectedInvokerCommandIndex: 2
+          _invokerCommandNames:
+          - 'On State: ArPlanePlacingModel'
+          - 'On State: Ar3dPlacingModel'
+          - 'On State: ArPlacedModel'
+          - MoveToNextState
+          - ChangeSequenceStartingPoint
+          _currInvokerCommandName: 'On State: ArPlacedModel'
+          _currSelectedMonoServiceTag: ArModelEditorStateHandler
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - 'Change scale to: vector.zero'
+        - 'Change scale to: vector.one'
+        - FinishedScaleChanging
+    _monoServiceTag: 
+    refrencedMonoServices:
+      _refrencedList: []
+  _Vectors:
+  - _name: vector.zero
+    _vectorToSet: {x: 0, y: 0, z: 0}
+    _checkPassedVector: 0
+  - _name: vector.one
+    _vectorToSet: {x: 10, y: 10, z: 10}
+    _checkPassedVector: 0
+  _moveSpeed: 2
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _changeStartingScale: 0
+  _startingScale: {x: 0, y: 0, z: 0}

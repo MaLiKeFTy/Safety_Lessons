@@ -1,0 +1,16 @@
+{
+    "name": "MonoServices.Spawnning",
+    "references": [
+        "GUID:c711dea96ce04f34d9747275dab6c163",
+        "GUID:bff0fcdff3a431b4295bafc148c21db3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

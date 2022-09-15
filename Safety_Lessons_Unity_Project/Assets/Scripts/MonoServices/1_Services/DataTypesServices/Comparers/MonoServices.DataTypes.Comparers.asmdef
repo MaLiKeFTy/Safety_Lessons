@@ -1,0 +1,16 @@
+{
+    "name": "MonoServices.DataTypes.Comparers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c711dea96ce04f34d9747275dab6c163"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

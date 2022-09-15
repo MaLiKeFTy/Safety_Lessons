@@ -1,0 +1,792 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1585482244787288683
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2110801874562867409}
+  - component: {fileID: 3090815740698390388}
+  - component: {fileID: 936818832340917182}
+  - component: {fileID: 1585482244787288679}
+  - component: {fileID: 1585482244787288681}
+  - component: {fileID: 1585482244787288680}
+  - component: {fileID: 1585482244787288676}
+  - component: {fileID: 1585482244787288677}
+  - component: {fileID: 4305757415816026199}
+  m_Layer: 0
+  m_Name: ArModelEditor
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2110801874562867409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 13.5, y: 13.5, z: 13.5}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2204722323152856841}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!33 &3090815740698390388
+MeshFilter:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Mesh: {fileID: -3758573805739257388, guid: 860c6e1267c8f5241b43adde26b1bea5, type: 3}
+--- !u!23 &936818832340917182
+MeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 2
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6a175355962a5794da2c353e904c1f79, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_AdditionalVertexStreams: {fileID: 0}
+--- !u!114 &1585482244787288679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e29a52dba910fd54dab0d0e391b9fe9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - 'Change mat color to: Green'
+        - 'Change mat color to: Yellow'
+        - 'Change mat color to: Blue'
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - 'Change mat color to: Green'
+        - 'Change mat color to: Yellow'
+        - 'Change mat color to: Blue'
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 2
+        _recieverCommandsNames:
+        - 'Change mat color to: Green'
+        - 'Change mat color to: Yellow'
+        - 'Change mat color to: Blue'
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _MatColorParams:
+  - _name: White
+    _color: {r: 1, g: 1, b: 1, a: 1}
+    _shaderParams:
+    - _BaseColor
+  _moveSpeed: 8
+  _changeOnStart: 0
+  _applyToChildren: 0
+--- !u!65 &1585482244787288681
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 0.005698065, y: 0.033702526, z: 0.0309175}
+  m_Center: {x: 0, y: 0, z: 0.00021685287}
+--- !u!114 &1585482244787288680
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c679a26d90f30944c8ff7e8333e09351, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: ArModelEditorClicker
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _canClick: 1
+  _activateOnHold: 1
+--- !u!114 &1585482244787288676
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3aeca535fb2e3b41bbc8ddc945fa357, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  rotateOnStart: 1
+  _rotateSpeed: 50
+  _space: 1
+  _vector3Axis: 2
+  _randomAxis: 0
+  _randomSpeed: 0
+--- !u!114 &1585482244787288677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66cdd9735ba064942949b2d9ce28585c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _positionToSet: {x: 0, y: 0, z: 0}
+--- !u!114 &4305757415816026199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1585482244787288683}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb0aa31ebf0a9bf438912d628dc35d7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - 'Change scale to: vector.zero'
+        - 'Change scale to: vector.one'
+        - FinishedScaleChanging
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - 'Change scale to: vector.zero'
+        - 'Change scale to: vector.one'
+        - FinishedScaleChanging
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _Vectors:
+  - _name: vector.zero
+    _vectorToSet: {x: 0, y: 0, z: 0}
+  - _name: vector.one
+    _vectorToSet: {x: 13.5, y: 13.5, z: 13.5}
+  _moveSpeed: 2
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _changeStartingScale: 0
+  _startingScale: {x: 0, y: 0, z: 0}
+--- !u!1 &2204722323152856840
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2204722323152856841}
+  - component: {fileID: 2204722323152856843}
+  - component: {fileID: 3700097939384015010}
+  - component: {fileID: 1561540620}
+  m_Layer: 0
+  m_Name: ArModel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2204722323152856841
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323152856840}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2110801874562867409}
+  - {fileID: 7398594247184225259}
+  - {fileID: 3297158557807292385}
+  - {fileID: 2204722323648304874}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2204722323152856843
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323152856840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac250adf6baddda4a8f5211c922c5c12, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  moveSpeed: 0.5
+  posRelativeToCam: 1
+--- !u!114 &3700097939384015010
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323152856840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da804c8f4a720774599bad64dea236e0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 3
+        _recieverCommandsNames:
+        - 'On State: ArPlanePlacingModel'
+        - 'On State: Ar3dPlacingModel'
+        - 'On State: ArPlacedModel'
+        - MoveToNextState
+        - ChangeSequenceStartingPoint
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 4
+        _recieverCommandsNames:
+        - 'On State: ArPlanePlacingModel'
+        - 'On State: Ar3dPlacingModel'
+        - 'On State: ArPlacedModel'
+        - MoveToNextState
+        - ChangeSequenceStartingPoint
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 3
+        _recieverCommandsNames:
+        - 'On State: ArPlanePlacingModel'
+        - 'On State: Ar3dPlacingModel'
+        - 'On State: ArPlacedModel'
+        - MoveToNextState
+        - ChangeSequenceStartingPoint
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: ArEditorModelState
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _stateSequence: {fileID: 11400000, guid: 252c10bedaf4d6a4eb171d937f41f342, type: 2}
+  changeStateOnStart: 0
+  _currentStateIndex: 0
+--- !u!114 &1561540620
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323152856840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 86c69e2faba261c4c8675729e32ce83a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames: []
+          _previousMonoSeriveTagsLength: 99
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames: []
+          _currInvokerCommandName: 
+          _currSelectedMonoServiceTag: 
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - CompareGameobject
+        - OnSameObject
+        - OnDifferentObject
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: ArModelEditorGameObjComparer
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _compareChildren: 0
+  _callOnceEveryCheck: 0
+--- !u!1 &2204722323648304873
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2204722323648304874}
+  - component: {fileID: 2204722323648304875}
+  - component: {fileID: 2204722323648304877}
+  - component: {fileID: 1164186857283298591}
+  m_Layer: 0
+  m_Name: ArModelMeshHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2204722323648304874
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323648304873}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2204722323152856841}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2204722323648304875
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323648304873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cbd2ff8878e93446ad1bec7bb620a93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _ObjToSpawn: {fileID: 0}
+  _childrenPopulationCount: 1
+  _clearPreviousChildren: 1
+  _spawnOnStart: 0
+--- !u!114 &2204722323648304877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323648304873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d72f36a6d2f14943a2243f74d750e1e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _matsToChange: []
+  _changeOnStart: 0
+  _applyToChilren: 1
+--- !u!114 &1164186857283298591
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2204722323648304873}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdf2321edef3db846a7953fe5254fa70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _getBoundsOnStart: 0
+  boundsParentLevel: 1
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  _debugBounds: 0
+--- !u!1 &3297158557807292387
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3297158557807292385}
+  - component: {fileID: 3297158557807292384}
+  m_Layer: 0
+  m_Name: ArModelMaterials
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3297158557807292385
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3297158557807292387}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2204722323152856841}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3297158557807292384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3297158557807292387}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44f8bc100111d894f9a00218af78a247, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _mats:
+  - {fileID: 2100000, guid: 52e4667fa1297e241aae4ed19bb766bc, type: 2}
+  - {fileID: 2100000, guid: 03aabe1ac8a709d4f9785e0ba6c51663, type: 2}
+--- !u!1 &7398594247184225258
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7398594247184225259}
+  - component: {fileID: 7398594247184225253}
+  - component: {fileID: 7398594247184225252}
+  m_Layer: 0
+  m_Name: ArModelDestroyer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7398594247184225259
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7398594247184225258}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2204722323152856841}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7398594247184225253
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7398594247184225258}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 798b3497b836e66428a7d7773e47dcdf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  parentLevelIndexToDestroy: 1
+--- !u!114 &7398594247184225252
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7398594247184225258}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d72d53e4110824944af5718416fe6105, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _script: {fileID: 7398594247184225253}
+  _monoServices: []

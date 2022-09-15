@@ -1,0 +1,19 @@
+{
+    "name": "MonoServiceEditor.Animations",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7a70c2fa1e786d34a96d63f7ea07d1bd",
+        "GUID:c711dea96ce04f34d9747275dab6c163"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8793050888443476633
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8793050888443476632}
+  - component: {fileID: 8793050888443476631}
+  m_Layer: 0
+  m_Name: ModelPlaceHolder
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8793050888443476632
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888443476633}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8793050888580369580}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8793050888443476631
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888443476633}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cbd2ff8878e93446ad1bec7bb620a93, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoServiceCommands:
+  - _monoServiceTag: 0
+    _currSelectedMonoServices:
+    - {fileID: 0}
+    _monoServiceIsInSameGameobj: 0
+    _parentNumber: 0
+    _invokerCommand: 1
+    _receiverCommand: 3
+    _siblingIndexCheck: 0
+    _transformCheck: 0
+    _siblingIsSameGameobj: 1
+    _parent: {fileID: 8793050888443476632}
+    _indexParentNumb: 0
+    _addDelay: 0
+    _delayAmount: 0
+    _limitCalls: 1
+    _numbOfCalls: 1
+    _constraintRecieverInvokers: 0
+    _monoServiceTagName: ArObjSpawner
+    _monoServices:
+    - {fileID: 0}
+    _recieverInvokerTag: 
+    _recieverInvokerTagNumb: 0
+    _invokerCommands:
+    - GetGameObjToHold
+    - SendGameObj
+    _receiverCommads:
+    - PopulateChildren
+    - OnChildSpawn
+    - OnFinishedPopulating
+    - ChangeAndSpawnObj
+    - SendObjtToSpawn
+    _monoServiceTags:
+    - ArObjSpawner
+    - ArPlacedClicker
+    - ArPlacedClicker
+    - ArPlacedModelChildrenPopulator
+    - ArPlacedModelPoseSetter
+    - ArPlacedModelScaleChanger
+    - ArPlacedVectorHolder
+    - ArRaycaster
+    - HighlightedModelClicker
+    - HighlightedModelPoseSetter
+    - HighlightedModelScaleChanger
+    - HighlightedModelVector3Holder
+    - HighlitedModelChildrenPopulator
+    - ModelObjSpawner
+    - ModelsGameObjHolder
+    - ModelsNamesHolder
+    - ModelsTexturesHolder
+    - ScanIndicatorVectorHolder
+    - UiCrossScanIdicator
+    - UiCrossScanIdicator
+    - UiModelSelectionChildrenPopulator
+    - UiModelSelectionClicker
+    - UiModelSelectionGameObjsHolder
+    - UiModelSelectionNamesHolder
+    - UiModelSelectionTexturesHolder
+    - UiModelSingleGameObjHolder
+    - UiModelsSelectionVectorHolder
+    - UiMovingToolsVectorHolder
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverClicker
+    - UiObjMoverVectorHolder
+    - UiObjMoverVectorHolder
+    - UiObjMoverVectorHolder
+    - UiObjMoverVectorHolder
+    - UiObjMoverVectorHolder
+    - UiObjMoverVectorHolder
+    - UiObjRotatorVectorHolder
+    - UiObjRotatorVectorHolder
+    - UiObjScaleClicker
+    - UiObjScaleClicker
+    - UiObjScaleVectorHolder
+    - UiObjScaleVectorHolder
+    _invokerHolderHeight: 0
+    _recieverInvokers:
+    - UiModelSingleGameObjHolder
+    - ModelObjSpawner
+    _selectedInvokerCommand: ChangeAndSpawnObj
+    _selectedReceiverCommand: SendGameObj
+  _monoServiceTag: 
+  _refrencedMonoServices: []
+  _refreshRefrencedMonoServices: 0
+  _ObjToSpawn: {fileID: 0}
+  _childrenPopulationCount: 1
+  _clearPreviousChildren: 1
+  _spawnOnStart: 0
+--- !u!1 &8793050888580369489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8793050888580369580}
+  - component: {fileID: 8793050888580369581}
+  - component: {fileID: 8793050888580369582}
+  - component: {fileID: 8793050888580369583}
+  - component: {fileID: 8793050888580369488}
+  m_Layer: 0
+  m_Name: ArSpawnedModel
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8793050888580369580
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888580369489}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1000, y: 1000, z: 1000}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 8793050888443476632}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!65 &8793050888580369581
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888580369489}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8793050888580369582
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888580369489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c679a26d90f30944c8ff7e8333e09351, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoServiceCommands: []
+  _monoServiceTag: ArSpawnedModelClicker
+  _refrencedMonoServices:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  _refreshRefrencedMonoServices: 0
+--- !u!114 &8793050888580369583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888580369489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b162f5f3d9ce7834bb1b56f702b2ad4a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoServiceCommands: []
+  _monoServiceTag: 
+  _refrencedMonoServices: []
+  _refreshRefrencedMonoServices: 0
+  _changeOnStart: 1
+--- !u!114 &8793050888580369488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8793050888580369489}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb898793194e03f4bb10dba03ec2cb70, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_DestroyOnRemoval: 1

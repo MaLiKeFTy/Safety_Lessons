@@ -1,0 +1,1711 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7733931455795979543
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8938767180956457423, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8803969141338164707, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8710612379090638314, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8518343246554757393, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7628035691217206606, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7471406424760925100, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7275933001060311270, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6862381767777875056, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6516061709453309415, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5951332268270737514, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5914400512052898861, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5786980809033290539, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5427352814320302573, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5186377634966306850, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5124915969443917045, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -5022235373827131837, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4969331846797603735, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4441447177743303610, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4401934877552040978, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3695663402007019460, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3609952968344905346, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3523369654727396883, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3499700882457212428, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -3126790598140049105, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2242937370670875356, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2230430064923651834, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2170721298600484993, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2080527246900964712, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1692764603697834519, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1478436823000181453, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1213359090821647939, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1164694925383910972, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1043411871162375618, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -756206842910477890, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -510898503462205615, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -418396210416067912, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -129004597035084156, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -105212632407611234, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 371960965432070316, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 620990190946588502, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 629682077639673365, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 682807230233866143, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 816852783255391924, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_Name
+      value: ZiggyPlugSocketIntro
+      objectReference: {fileID: 0}
+    - target: {fileID: 1009325808839868595, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1327760755500302643, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1956736801288864477, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.062
+      objectReference: {fileID: 0}
+    - target: {fileID: 1956736801288864477, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.418
+      objectReference: {fileID: 0}
+    - target: {fileID: 1979840514249081217, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2042086455269997762, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.2460523
+      objectReference: {fileID: 0}
+    - target: {fileID: 2042086455269997762, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.2460523
+      objectReference: {fileID: 0}
+    - target: {fileID: 2042086455269997762, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.2460523
+      objectReference: {fileID: 0}
+    - target: {fileID: 2485468864451323867, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2569161217265012108, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3403346695959209235, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3885981529859100989, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3894398470801973812, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4295838829517001035, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4389924228806707836, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4491244153278013552, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4623489680250276415, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808166616240731099, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4918266467708899750, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5213020153647549746, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5766137960416247889, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6067134774542725164, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 59.401257
+      objectReference: {fileID: 0}
+    - target: {fileID: 6067134774542725164, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 56.09673
+      objectReference: {fileID: 0}
+    - target: {fileID: 6067134774542725164, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 82.00424
+      objectReference: {fileID: 0}
+    - target: {fileID: 6191498864987570754, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6247335958665177175, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6308594161107342787, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6473354260448814963, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6498033243961866132, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6734246373221124126, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7082836887292885246, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7153482275159159883, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7331337429899666230, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 52e4667fa1297e241aae4ed19bb766bc, type: 2}
+    - target: {fileID: 7746808107591015577, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164923720125365468, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 2dab5893ad0c4c34da80cc9e5026fb5c, type: 3}
+--- !u!1 &7463898892115728454 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2dab5893ad0c4c34da80cc9e5026fb5c,
+    type: 3}
+  m_PrefabInstance: {fileID: 7733931455795979543}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &1448844709
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!95 &1448844708
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 3f6d95efa067fa84f9570553b9e811d6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 1
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1448844703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 767329f504b42444c83862bc1577d3e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ZiggyInlineAnimationPlayer
+          - AnimSequenceHolder
+          - ZiggyAnimClipComparer
+          _previousMonoSeriveTagsLength: 3
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames:
+          - UseHolder
+          _currInvokerCommandName: UseHolder
+          _currSelectedMonoServiceTag: AnimSequenceHolder
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - ChangeAnimationState
+        - ChangeAnimationSequence
+        - ChangeAnimationSequenceAndState
+        - ChangeAndOverideAnimationSequence
+        - OnChangedAnimClip
+        - TurnOffSequenceLoop
+        - TurnOnSequenceLoop
+        - EndOfSequence
+        - RestartAnimationSequence
+        - PauseAnimationSequence
+        - ResumeAnimationSequence
+        - ChangeCurrAnimIndex
+        - SendAnimName
+        - TurnOffCurrAnimationLooping
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 0
+          _monoSerciveTagNames:
+          - ZiggyInlineAnimationPlayer
+          - ZiggyAnimClipComparer
+          _previousMonoSeriveTagsLength: 2
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - ChangeAnimationState
+          - ChangeAnimationSequence
+          - ChangeAnimationSequenceAndState
+          - ChangeAndOverideAnimationSequence
+          - OnChangedAnimClip
+          - TurnOffSequenceLoop
+          _currInvokerCommandName: ChangeAnimationSequence
+          _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 5
+        _recieverCommandsNames:
+        - ChangeAnimationState
+        - ChangeAnimationSequence
+        - ChangeAnimationSequenceAndState
+        - ChangeAndOverideAnimationSequence
+        - OnChangedAnimClip
+        - TurnOffSequenceLoop
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 4
+          _monoSerciveTagNames:
+          - AnimSequenceHolder
+          - Raycaster
+          - UiClicker
+          - UiClicker1
+          - UiClicker2
+          - ZiggyAnimClipComparer
+          - ZiggyInlineAnimationPlayer
+          _previousMonoSeriveTagsLength: 7
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - OnMouseDown
+          - OnMouseUp
+          - ChangeCanCall
+          - OnMouseHold
+          _currInvokerCommandName: ChangeAnimationSequence
+          _currSelectedMonoServiceTag: UiClicker2
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 10
+        _recieverCommandsNames:
+        - ChangeAnimationState
+        - ChangeAnimationSequence
+        - ChangeAnimationSequenceAndState
+        - ChangeAndOverideAnimationSequence
+        - OnChangedAnimClip
+        - TurnOffSequenceLoop
+        - TurnOnSequenceLoop
+        - EndOfSequence
+        - RestartAnimationSequence
+        - PauseAnimationSequence
+        - ResumeAnimationSequence
+      _resetAllAlreadyCalledCommands: 0
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 4
+          _monoSerciveTagNames:
+          - AnimSequenceHolder
+          - Raycaster
+          - UiClicker
+          - UiClicker1
+          - UiClicker2
+          - ZiggyAnimClipComparer
+          - ZiggyInlineAnimationPlayer
+          _previousMonoSeriveTagsLength: 7
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - OnMouseDown
+          - OnMouseUp
+          - ChangeCanCall
+          - OnMouseHold
+          _currInvokerCommandName: OnMouseUp
+          _currSelectedMonoServiceTag: UiClicker2
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 10
+        _recieverCommandsNames:
+        - ChangeAnimationState
+        - ChangeAnimationSequence
+        - ChangeAnimationSequenceAndState
+        - ChangeAndOverideAnimationSequence
+        - OnChangedAnimClip
+        - TurnOffSequenceLoop
+        - TurnOnSequenceLoop
+        - EndOfSequence
+        - RestartAnimationSequence
+        - PauseAnimationSequence
+        - ResumeAnimationSequence
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: ZiggyInlineAnimationPlayer
+    _commandRefrences:
+      _recievers:
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: ZiggyLessonPlugSocket
+        _monoServiceType: AnimationClipComparer
+        _commandIndex: 0
+        _invokerIndex: 0
+        _monoServiceCommand:
+          _invokerCommands:
+          - _invokerCommand:
+              _selectedMonoServiceTag: 170
+              _monoSerciveTagNames:
+              - AnimSequenceHolder
+              - AnimSequenceHolder
+              - AnimSequenceHolder
+              - ArCameraPosGetter
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelsSpawner
+              - ArMenuMonoserviceChildrenGetter
+              - ArMenuPlacementIndicatorClicker
+              - ArMenuRowIntComparer
+              - ArMenuRowsMeshTextCellsPopulator
+              - ArMenuRowsPopulator
+              - ArMenuRowsPosSetter
+              - ArMenuRowsToggler
+              - ArMenuScrollDown
+              - ArMenuScrollUp
+              - ArMenuStateHandler
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuValueMultiplier
+              - ArMenuZoneTriggerer
+              - ArModelArPoseSetter
+              - ArModelDeletionToolObjComaparer
+              - ArModelDestroyer
+              - ArModelEditorToolObjComaparer
+              - ArModelGameObjComparer
+              - ArModelMeshBoundsGetter
+              - ArModelMeshSpawner
+              - ArModelMonobehaviourEventsCaller
+              - ArModelSpawner
+              - ArModelStateHandler
+              - ArModelValueMultiplier
+              - ArRaycaster
+              - ArSceneEditorUiClicker
+              - ArScenePlayerUiClicker
+              - EditedArModelsHolder
+              - ObjHolder
+              - ObjsHolderDivider
+              - Raycaster
+              - SceneStateHandler
+              - SelectedArModelHolder
+              - TouchesManager
+              - UiArMenuShowingClicker
+              - ZiggyAnimClipComparer
+              - ZiggyAnimClipComparer
+              - ZiggyAnimClipComparer
+              - ZiggyInlineAnimationPlayer
+              - ZiggyInlineAnimationPlayer
+              - ZiggyInlineAnimationPlayer
+              _previousMonoSeriveTagsLength: 173
+              _monoServiceIsAFamRelative: 0
+              _parentNumber: 0
+              _selectedInvokerCommandIndex: 4
+              _invokerCommandNames:
+              - ChangeAnimationState
+              - ChangeAnimationSequence
+              - ChangeAnimationSequenceAndState
+              - ChangeAndOverideAnimationSequence
+              - OnChangedAnimClip
+              - TurnOffSequenceLoop
+              _currInvokerCommandName: OnChangedAnimClip
+              _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+              _alreadyCalled: 0
+            _invokerResetter: []
+          _recieverCommand:
+            _selectedReciverCommandIndex: 1
+            _recieverCommandsNames:
+            - On 4_reactNo
+            - CompareAnim
+          _resetAllAlreadyCalledCommands: 0
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: ZiggyPointing
+        _monoServiceType: AnimationClipComparer
+        _commandIndex: 0
+        _invokerIndex: 0
+        _monoServiceCommand:
+          _invokerCommands:
+          - _invokerCommand:
+              _selectedMonoServiceTag: 4
+              _monoSerciveTagNames:
+              - AnimSequenceHolder
+              - Raycaster
+              - UiClicker
+              - ZiggyAnimClipComparer
+              - ZiggyInlineAnimationPlayer
+              _previousMonoSeriveTagsLength: 5
+              _monoServiceIsAFamRelative: 0
+              _parentNumber: 0
+              _selectedInvokerCommandIndex: 4
+              _invokerCommandNames:
+              - ChangeAnimationState
+              - ChangeAnimationSequence
+              - ChangeAnimationSequenceAndState
+              - ChangeAndOverideAnimationSequence
+              - OnChangedAnimClip
+              - TurnOffSequenceLoop
+              _currInvokerCommandName: OnChangedAnimClip
+              _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+              _alreadyCalled: 0
+            _invokerResetter: []
+          _recieverCommand:
+            _selectedReciverCommandIndex: 1
+            _recieverCommandsNames:
+            - On ZiggyRotating
+            - CompareAnim
+            - OnSameAnimClip
+            - OnDiffAnimClip
+          _resetAllAlreadyCalledCommands: 0
+      - _mainMonoService: {fileID: 1448844705}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: ZiggyPlugSocketIntro
+        _monoServiceType: AnimationClipComparer
+        _commandIndex: 0
+        _invokerIndex: 0
+        _monoServiceCommand:
+          _invokerCommands:
+          - _invokerCommand:
+              _selectedMonoServiceTag: 170
+              _monoSerciveTagNames:
+              - AnimSequenceHolder
+              - AnimSequenceHolder
+              - AnimSequenceHolder
+              - ArCameraPosGetter
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderClicker
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellHolderRaycastObj
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuCellStateSelector
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameClicker
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuFrameDissolveEffect
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelHolder
+              - ArMenuModelsSpawner
+              - ArMenuMonoserviceChildrenGetter
+              - ArMenuPlacementIndicatorClicker
+              - ArMenuRowIntComparer
+              - ArMenuRowsMeshTextCellsPopulator
+              - ArMenuRowsPopulator
+              - ArMenuRowsPosSetter
+              - ArMenuRowsToggler
+              - ArMenuScrollDown
+              - ArMenuScrollUp
+              - ArMenuStateHandler
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuStretchedFrameDissolveEffect
+              - ArMenuValueMultiplier
+              - ArMenuZoneTriggerer
+              - ArModelArPoseSetter
+              - ArModelDeletionToolObjComaparer
+              - ArModelDestroyer
+              - ArModelEditorToolObjComaparer
+              - ArModelGameObjComparer
+              - ArModelMeshBoundsGetter
+              - ArModelMeshSpawner
+              - ArModelMonobehaviourEventsCaller
+              - ArModelSpawner
+              - ArModelStateHandler
+              - ArModelValueMultiplier
+              - ArRaycaster
+              - ArSceneEditorUiClicker
+              - ArScenePlayerUiClicker
+              - EditedArModelsHolder
+              - ObjHolder
+              - ObjsHolderDivider
+              - Raycaster
+              - SceneStateHandler
+              - SelectedArModelHolder
+              - TouchesManager
+              - UiArMenuShowingClicker
+              - ZiggyAnimClipComparer
+              - ZiggyAnimClipComparer
+              - ZiggyAnimClipComparer
+              - ZiggyInlineAnimationPlayer
+              - ZiggyInlineAnimationPlayer
+              - ZiggyInlineAnimationPlayer
+              _previousMonoSeriveTagsLength: 173
+              _monoServiceIsAFamRelative: 0
+              _parentNumber: 0
+              _selectedInvokerCommandIndex: 4
+              _invokerCommandNames:
+              - ChangeAnimationState
+              - ChangeAnimationSequence
+              - ChangeAnimationSequenceAndState
+              - ChangeAndOverideAnimationSequence
+              - OnChangedAnimClip
+              - TurnOffSequenceLoop
+              _currInvokerCommandName: OnChangedAnimClip
+              _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+              _alreadyCalled: 0
+            _invokerResetter: []
+          _recieverCommand:
+            _selectedReciverCommandIndex: 1
+            _recieverCommandsNames:
+            - On 4_reactNo
+            - CompareAnim
+          _resetAllAlreadyCalledCommands: 0
+      - _mainMonoService: {fileID: 1448844703}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: ZiggyPlugSocketIntro
+        _monoServiceType: InlineAnimationSequenceWithSoundsPlayer
+        _commandIndex: 1
+        _invokerIndex: 0
+        _monoServiceCommand:
+          _invokerCommands:
+          - _invokerCommand:
+              _selectedMonoServiceTag: 0
+              _monoSerciveTagNames:
+              - ZiggyInlineAnimationPlayer
+              - ZiggyAnimClipComparer
+              _previousMonoSeriveTagsLength: 2
+              _monoServiceIsAFamRelative: 1
+              _parentNumber: 0
+              _selectedInvokerCommandIndex: 1
+              _invokerCommandNames:
+              - ChangeAnimationState
+              - ChangeAnimationSequence
+              - ChangeAnimationSequenceAndState
+              - ChangeAndOverideAnimationSequence
+              - OnChangedAnimClip
+              - TurnOffSequenceLoop
+              _currInvokerCommandName: ChangeAnimationSequence
+              _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+              _alreadyCalled: 0
+            _invokerResetter: []
+          _recieverCommand:
+            _selectedReciverCommandIndex: 5
+            _recieverCommandsNames:
+            - ChangeAnimationState
+            - ChangeAnimationSequence
+            - ChangeAnimationSequenceAndState
+            - ChangeAndOverideAnimationSequence
+            - OnChangedAnimClip
+            - TurnOffSequenceLoop
+          _resetAllAlreadyCalledCommands: 0
+      _invokers:
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 1
+        _invokerIndex: 0
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: AnimSequenceHolder
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 0
+        _invokerIndex: 0
+      - _mainMonoService: {fileID: 1448844704}
+        _monoServiceTag: AnimSequenceHolder
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 0
+        _invokerIndex: 0
+      - _mainMonoService: {fileID: 1448844703}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 1
+        _invokerIndex: 0
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 1
+        _invokerIndex: 0
+      _resetters: []
+  _animationSequence: {fileID: 11400000, guid: 85c8763d8e3b97c44b90af2531615500, type: 2}
+  _animatorController: {fileID: 9100000, guid: 3f6d95efa067fa84f9570553b9e811d6, type: 2}
+  _loopSequence: 0
+  _playSquenceOnStart: 0
+--- !u!114 &1448844704
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 868e3756a7070be4aa2652a730306895, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 3
+          _monoSerciveTagNames:
+          - ZiggyAnimClipComparer
+          - AnimSequenceHolder
+          - ZiggyInlineAnimationPlayer
+          - ZiggyHazardousSignClicker
+          _previousMonoSeriveTagsLength: 4
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 1
+          _invokerCommandNames:
+          - OnMouseDown
+          - OnMouseUp
+          - OnMouseHold
+          - TurnOnCanClick
+          - TurnOffCanClick
+          _currInvokerCommandName: OnMouseUp
+          _currSelectedMonoServiceTag: ZiggyHazardousSignClicker
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - UseHolder
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: AnimSequenceHolder
+    _commandRefrences:
+      _recievers:
+      - _mainMonoService: {fileID: 1448844703}
+        _monoServiceTag: AnimSequenceHolder
+        _monoServiceName: ZiggyPlugSocketIntro
+        _monoServiceType: InlineAnimationSequenceWithSoundsPlayer
+        _commandIndex: 0
+        _invokerIndex: 0
+        _monoServiceCommand:
+          _invokerCommands:
+          - _invokerCommand:
+              _selectedMonoServiceTag: 1
+              _monoSerciveTagNames:
+              - ZiggyInlineAnimationPlayer
+              - AnimSequenceHolder
+              - ZiggyAnimClipComparer
+              _previousMonoSeriveTagsLength: 3
+              _monoServiceIsAFamRelative: 1
+              _parentNumber: 0
+              _selectedInvokerCommandIndex: 0
+              _invokerCommandNames:
+              - UseHolder
+              _currInvokerCommandName: UseHolder
+              _currSelectedMonoServiceTag: AnimSequenceHolder
+              _alreadyCalled: 0
+            _invokerResetter: []
+          _recieverCommand:
+            _selectedReciverCommandIndex: 1
+            _recieverCommandsNames:
+            - ChangeAnimationState
+            - ChangeAnimationSequence
+            - ChangeAnimationSequenceAndState
+            - ChangeAndOverideAnimationSequence
+            - OnChangedAnimClip
+            - TurnOffSequenceLoop
+            - TurnOnSequenceLoop
+            - EndOfSequence
+            - RestartAnimationSequence
+            - PauseAnimationSequence
+            - ResumeAnimationSequence
+            - ChangeCurrAnimIndex
+            - SendAnimName
+            - TurnOffCurrAnimationLooping
+          _resetAllAlreadyCalledCommands: 0
+      _invokers: []
+      _resetters: []
+  _heldObject: {fileID: 11400000, guid: d25baf047299ff547ac6ce2a30285dfc, type: 2}
+--- !u!114 &1448844705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5368fb848eaef61489dded09813372b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 170
+          _monoSerciveTagNames:
+          - AnimSequenceHolder
+          - AnimSequenceHolder
+          - AnimSequenceHolder
+          - ArCameraPosGetter
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderClicker
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellHolderRaycastObj
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuCellStateSelector
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameClicker
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuFrameDissolveEffect
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelHolder
+          - ArMenuModelsSpawner
+          - ArMenuMonoserviceChildrenGetter
+          - ArMenuPlacementIndicatorClicker
+          - ArMenuRowIntComparer
+          - ArMenuRowsMeshTextCellsPopulator
+          - ArMenuRowsPopulator
+          - ArMenuRowsPosSetter
+          - ArMenuRowsToggler
+          - ArMenuScrollDown
+          - ArMenuScrollUp
+          - ArMenuStateHandler
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuStretchedFrameDissolveEffect
+          - ArMenuValueMultiplier
+          - ArMenuZoneTriggerer
+          - ArModelArPoseSetter
+          - ArModelDeletionToolObjComaparer
+          - ArModelDestroyer
+          - ArModelEditorToolObjComaparer
+          - ArModelGameObjComparer
+          - ArModelMeshBoundsGetter
+          - ArModelMeshSpawner
+          - ArModelMonobehaviourEventsCaller
+          - ArModelSpawner
+          - ArModelStateHandler
+          - ArModelValueMultiplier
+          - ArRaycaster
+          - ArSceneEditorUiClicker
+          - ArScenePlayerUiClicker
+          - EditedArModelsHolder
+          - ObjHolder
+          - ObjsHolderDivider
+          - Raycaster
+          - SceneStateHandler
+          - SelectedArModelHolder
+          - TouchesManager
+          - UiArMenuShowingClicker
+          - ZiggyAnimClipComparer
+          - ZiggyAnimClipComparer
+          - ZiggyAnimClipComparer
+          - ZiggyInlineAnimationPlayer
+          - ZiggyInlineAnimationPlayer
+          - ZiggyInlineAnimationPlayer
+          _previousMonoSeriveTagsLength: 173
+          _monoServiceIsAFamRelative: 0
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 4
+          _invokerCommandNames:
+          - ChangeAnimationState
+          - ChangeAnimationSequence
+          - ChangeAnimationSequenceAndState
+          - ChangeAndOverideAnimationSequence
+          - OnChangedAnimClip
+          - TurnOffSequenceLoop
+          _currInvokerCommandName: OnChangedAnimClip
+          _currSelectedMonoServiceTag: ZiggyInlineAnimationPlayer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - On 4_reactNo
+        - CompareAnim
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: ZiggyAnimClipComparer
+    _commandRefrences:
+      _recievers: []
+      _invokers:
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 0
+        _invokerIndex: 0
+      - _mainMonoService: {fileID: 1448844703}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 0
+        _invokerIndex: 0
+      - _mainMonoService: {fileID: 0}
+        _monoServiceTag: ZiggyInlineAnimationPlayer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 0
+        _invokerIndex: 0
+      _resetters: []
+  _animClips:
+  - {fileID: 972090643217388926, guid: 7362bd90eea8adb48b32f2bc553e0916, type: 3}
+  - {fileID: 6846401855177820368, guid: 7362bd90eea8adb48b32f2bc553e0916, type: 3}
+--- !u!114 &1448844706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 0
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec97aab3bac4a4b42b5fc8a44e278131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 1
+          _monoSerciveTagNames:
+          - ZiggyInlineAnimationPlayer
+          - ZiggyAnimClipComparer
+          _previousMonoSeriveTagsLength: 2
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 0
+          _selectedInvokerCommandIndex: 0
+          _invokerCommandNames:
+          - On ZiggyRotating
+          - CompareAnim
+          _currInvokerCommandName: On ZiggyRotating
+          _currSelectedMonoServiceTag: ZiggyAnimClipComparer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 0
+        _recieverCommandsNames:
+        - ToggleLooking
+        - FinishedRotating
+      _resetAllAlreadyCalledCommands: 0
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers:
+      - _mainMonoService: {fileID: 1448844705}
+        _monoServiceTag: ZiggyAnimClipComparer
+        _monoServiceName: 
+        _monoServiceType: 
+        _commandIndex: 0
+        _invokerIndex: 0
+      _resetters: []
+  _offset: {x: 0, y: 0, z: 0}
+  _moveSpeed: 0.15
+  _lookAtX: 0
+  _lookAtY: 1
+  _lookAtZ: 0
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _lookAtMainCam: 1
+  _constantLooking: 0
+  target: {fileID: 0}
+--- !u!114 &5680332874235877548
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7463898892115728454}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b2389671c73c9145b3638892caccb3a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _commandRefrences:
+      _recievers: []
+      _invokers: []
+      _resetters: []
+  _originGameObj: {fileID: 0}
+  _componentTogglerList:
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  - rid: -2
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }

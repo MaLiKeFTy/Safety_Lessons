@@ -1,0 +1,257 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5754753443668535595
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -2026846398776990955, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 783561912390437407, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+        type: 3}
+      propertyPath: m_Name
+      value: Ro.Bert_ZiggyAnimation
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: cb9c0841ded3e044c99cfdcb9c82c061, type: 3}
+--- !u!1 &4836184395999908986 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: cb9c0841ded3e044c99cfdcb9c82c061,
+    type: 3}
+  m_PrefabInstance: {fileID: 5754753443668535595}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1123277905706022275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4836184395999908986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec97aab3bac4a4b42b5fc8a44e278131, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands: []
+    _monoServiceTag: 
+    _RefrencedMonoServices:
+      _refrencedList: []
+  _recievers: []
+  _invokers: []
+  _resetters: []
+  _offset: {x: 0, y: 360, z: 0}
+  _moveSpeed: 0.3
+  _lookAtX: 0
+  _lookAtY: 0
+  _lookAtZ: 0
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _lookAtMainCam: 1
+  _constantLooking: 1
+  target: {fileID: 0}
+--- !u!114 &2508244866824395899
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4836184395999908986}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb0aa31ebf0a9bf438912d628dc35d7f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _monoService:
+    _monoServiceCommands:
+    - _invokerCommands:
+      - _invokerCommand:
+          _selectedMonoServiceTag: 2
+          _monoSerciveTagNames:
+          - ZiggyAnimClipComparer
+          - ZiggyInlineAnimationPlayer
+          - ZiggyAnimPlugSocketNamesComparer
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          - ZiggyAnimHolder
+          - ZiggyUiClicker
+          _previousMonoSeriveTagsLength: 19
+          _currSelectedMonoServices:
+          - {fileID: 0}
+          _monoServiceIsAFamRelative: 1
+          _parentNumber: 1
+          _selectedInvokerCommandIndex: 2
+          _invokerCommandNames:
+          - 'On same: ZiggyWaitingForInstructions'
+          - 'On same: ZiggyWaving'
+          - 'On same: ZiggyAskingRobertForObject'
+          - CompareTexts
+          _currInvokerCommandName: 'On same: ZiggyAskingRobertForObject'
+          _currSelectedMonoServiceTag: ZiggyAnimPlugSocketNamesComparer
+          _alreadyCalled: 0
+        _invokerResetter: []
+      _recieverCommand:
+        _selectedReciverCommandIndex: 1
+        _recieverCommandsNames:
+        - 'Change vector to: vector.zero'
+        - 'Change vector to: vector.one'
+        - 'On Finished changing to: vector.zero'
+        - 'On Finished changing to: vector.one'
+        - ChangeScaleWithVector
+    _monoServiceTag: 
+    _RefrencedMonoServices:
+      _refrencedList: []
+  _recievers: []
+  _invokers:
+  - _mainMonoService: {fileID: 0}
+    _monoServiceTag: ZiggyAnimPlugSocketNamesComparer
+    _gameObjName: Ui
+    _gameObjType: StringsComparer
+    _commandIndex: 0
+  _resetters: []
+  _Vectors:
+  - _name: vector.zero
+    _vectorToSet: {x: 0, y: 0, z: 0}
+  - _name: vector.one
+    _vectorToSet: {x: 7.5, y: 7.5, z: 7.5}
+  _moveSpeed: 2
+  _speedCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  _changeStartingScale: 1
+  _startingScale: {x: 0, y: 0, z: 0}

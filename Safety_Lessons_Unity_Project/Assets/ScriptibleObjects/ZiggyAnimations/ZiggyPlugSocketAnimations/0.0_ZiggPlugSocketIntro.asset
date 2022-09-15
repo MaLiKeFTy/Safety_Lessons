@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ab41556cd6c994cacd1a16b9c04a28, type: 3}
+  m_Name: 0.0_ZiggPlugSocketIntro
+  m_EditorClassIdentifier: 
+  _objs:
+  - _name: ZiggyStarting
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 4ede3a637c17fe84ba18d988a4f0a34f, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: f7f595aa8f9cc7d4b9233e4445589992, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: 2c3e12fc975f86f458fa0bdc815f516b, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+  - _name: ZiggyAskingRobertForObject
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: d66a08355e3a7e443b13ebec58846ec0, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 77eacc226607bfb408b2016dd1238426, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips:
+      - _audioClip: {fileID: 8300000, guid: ffefd8077d1096946afc12bdb2e856cc, type: 3}
+        _loop: 0
+        _useAudioClipVolume: 0
+        _volume: 1
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: a27d3668feca9394498f84bc069c7863, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+  - _name: ZiggyWaving
+    _loopThisSequence: 1
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 4555f5cf17e364247b766dd8a6a6b7b2, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []
+  - _name: 
+    _loopThisSequence: 0
+    _animationWithSounds:
+    - _animClip: {fileID: 7400000, guid: 7ffc45e7a04446e4d9a4687faa8b118a, type: 2}
+      _pickRandomAudioClip: 0
+      _audioClips: []

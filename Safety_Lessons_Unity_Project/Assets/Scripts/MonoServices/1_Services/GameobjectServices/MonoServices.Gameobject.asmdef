@@ -1,0 +1,16 @@
+{
+    "name": "MonoServices.Gameobject",
+    "references": [
+        "GUID:c711dea96ce04f34d9747275dab6c163",
+        "GUID:d41271c00f04ee642a9fb12e9b7948c5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

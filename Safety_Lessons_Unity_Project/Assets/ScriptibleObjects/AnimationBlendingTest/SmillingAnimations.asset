@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ab41556cd6c994cacd1a16b9c04a28, type: 3}
+  m_Name: SmillingAnimations
+  m_EditorClassIdentifier: 
+  _mainObj: {fileID: 0}
+  _objs:
+  - {fileID: 7400000, guid: cf5393dd44304ff42b89c75310bd8d1b, type: 2}
+  - {fileID: 7400000, guid: ce00ffd39257d5c468d6f282132fa1fa, type: 2}
+  - {fileID: 7400000, guid: db15be092419a1a42a46bd61607b2b49, type: 2}

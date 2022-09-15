@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5ab41556cd6c994cacd1a16b9c04a28, type: 3}
+  m_Name: ZiggyGrenadeBad
+  m_EditorClassIdentifier: 
+  _objs:
+  - {fileID: 1827226128182048838, guid: 65fdb37972059ee4d917626408514ec7, type: 3}
+  - {fileID: 1827226128182048838, guid: 238c32894142445458e99e03ec6aff0e, type: 3}
+  - {fileID: 1827226128182048838, guid: 37fbe477ff2267f42b2b0889558a7aab, type: 3}
+  - {fileID: 1827226128182048838, guid: ca800433b2b6b1247b48f7933dee728a, type: 3}
+  - {fileID: 1827226128182048838, guid: b9d01be1dcf39b44ea3889022a64c0a4, type: 3}
+  - {fileID: 1827226128182048838, guid: 6e2f22a6ed6607d46bb6d081663b82d8, type: 3}
+  - {fileID: 1827226128182048838, guid: 46aa1cb50dc9c274b93666afa1cd635d, type: 3}
+  - {fileID: 1827226128182048838, guid: feeb93ad2f3a201409a30fbd4c0bc333, type: 3}

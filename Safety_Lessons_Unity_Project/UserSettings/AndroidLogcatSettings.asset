@@ -1,0 +1,317 @@
+{
+    "m_SelectedDeviceId": "RFCNA0E4F9M",
+    "m_SelectedPackage": {
+        "deviceId": "R9YT40YB61X",
+        "name": "com.H.O.P.E.V.PlainArTest",
+        "processId": 23195,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 14713,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 19477,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 18907,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 24332,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 26155,
+            "exited": true
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.discord",
+            "processId": 17807,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 3418,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 8257,
+            "exited": false
+        },
+        {
+            "deviceId": "RFCNA0E4F9M",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 20911,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 7123,
+            "exited": true
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 13237,
+            "exited": true
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 17414,
+            "exited": true
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 32087,
+            "exited": true
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 32265,
+            "exited": true
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 5641,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 9250,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 15218,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 11817,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 17198,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 20654,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 22263,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 22892,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 23671,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 25151,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 27653,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 27882,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 28709,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 8088,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 8631,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 19403,
+            "exited": false
+        },
+        {
+            "deviceId": "R9YT40YB61X",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 23195,
+            "exited": false
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 9272,
+            "exited": true
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 10700,
+            "exited": true
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 13123,
+            "exited": true
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 17018,
+            "exited": true
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 17945,
+            "exited": true
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 19906,
+            "exited": false
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 8746,
+            "exited": false
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 9944,
+            "exited": false
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 8608,
+            "exited": false
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 12056,
+            "exited": false
+        },
+        {
+            "deviceId": "WCV5T19417003654",
+            "name": "com.H.O.P.E.V.PlainArTest",
+            "processId": 24290,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
